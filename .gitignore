@@ -1,0 +1,3 @@
+.build/
+.generate_tmp/
+examples/bin/
